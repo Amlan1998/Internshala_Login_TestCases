@@ -52,3 +52,12 @@ Test cases are meticulously written to capture a range of real-world scenarios a
 - Bug reports maintained in a structured Excel format under the `/Bug_Reports` folder
 
 ---
+
+## Folder Structure:
+Internshala_Login_Testing/
+│
+├── Manual_Testing/
+│ └── Internshala_Login_TestCases.xlsx
+| └── README.md
+
+---
