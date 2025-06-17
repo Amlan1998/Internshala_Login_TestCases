@@ -58,6 +58,5 @@ Internshala_Login_Testing/
 │
 ├── Manual_Testing/
 │ └── Internshala_Login_TestCases.xlsx
-| └── README.md
 
 ---
