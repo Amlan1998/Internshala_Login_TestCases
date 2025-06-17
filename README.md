@@ -6,7 +6,7 @@ This repository contains detailed manual test cases for the **Login functionalit
 
 ## What’s Covered?
 
-### 75+ Comprehensive Test Cases
+### 80+ Comprehensive Test Cases
 Test cases are meticulously written to capture a range of real-world scenarios and unexpected behaviors to ensure a robust and user-friendly login experience.
 
 ---
